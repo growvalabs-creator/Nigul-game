@@ -1,0 +1,6 @@
+{
+  "name": "Nigul Bird - Nostalgic Flappy Bird Game",
+  "description": "A nostalgic Flappy Bird-inspired retro arcade game with customizable characters, authentic voice jump effects, 10 distinct level progressions, and synthesized 8-bit chiptune music.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
